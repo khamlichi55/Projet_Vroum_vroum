@@ -42,20 +42,27 @@ Nous visons principalement :
 
 La page d'accueil offre une vue d'ensemble de notre garage, avec des liens vers les services proposés, des informations de contact et les dernières publicités sur les motos.
 
-![Page d'Accueil](image.png)
-![image](https://github.com/user-attachments/assets/5b64388e-a013-46e1-b4c3-e00e1e11d438)
+![Page d'Accueil]
+![image](https://github.com/user-attachments/assets/d3b6b4f2-f7fe-4bb9-b249-8397e9818391)
+![image](https://github.com/user-attachments/assets/1955715e-546f-4374-a6fd-60534a9e5ef9)
+![image](https://github.com/user-attachments/assets/547c7cce-ecbb-4d0d-9cda-0601070f944f)
 
-![alt text](image-1.png)
-![alt text](image-2.png)
 
 ### Page d'Authentification
 
 Les utilisateurs (clients et mécaniciens) peuvent se connecter à leur compte via un formulaire d'authentification sécurisé.
 
-![Page d'Authentification](image-3.png)
+![Page d'Authentification](https://github.com/user-attachments/assets/85967e10-6483-41cb-b62b-a8dd8c5e83b9)
+
 
 ### Page de Rendez-vous
 
 Les clients peuvent prendre rendez-vous en ligne pour une réparation ou une personnalisation de leur moto. 
-![Page de Rendez-vous](image-4.png)
+![Page de Rendez-vous]![image](https://github.com/user-attachments/assets/bc3d400e-4b24-4eac-808f-b59be05f1bf4)
+
+## Auteurs
+
+- **Idrissi Khamlichi Abdelhadi** - Ingenieur Informatique et Reseaux
+-   [Mon CvWeb](https://ik-abdou.vercel.app/)
+
 
