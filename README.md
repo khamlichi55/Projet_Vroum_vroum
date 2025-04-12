@@ -43,22 +43,25 @@ Nous visons principalement :
 La page d'accueil offre une vue d'ensemble de notre garage, avec des liens vers les services proposés, des informations de contact et les dernières publicités sur les motos.
 
 ![Page d'Accueil]
-![image](https://github.com/user-attachments/assets/d3b6b4f2-f7fe-4bb9-b249-8397e9818391)
-![image](https://github.com/user-attachments/assets/1955715e-546f-4374-a6fd-60534a9e5ef9)
-![image](https://github.com/user-attachments/assets/547c7cce-ecbb-4d0d-9cda-0601070f944f)
+![WhatsApp Image 2025-04-12 at 03 53 19_997c6912](https://github.com/user-attachments/assets/75fefc40-e656-44dd-8843-68f8e46d0bc9)
+![WhatsApp Image 2025-04-12 at 03 53 20_4d61f0fc](https://github.com/user-attachments/assets/ed694377-05a0-416b-a7df-c692858160a8)
+![WhatsApp Image 2025-04-12 at 03 53 19_6dd59193](https://github.com/user-attachments/assets/108b6be8-6da4-4394-abc2-fa7ce6443ede)
+
 
 
 ### Page d'Authentification
 
 Les utilisateurs (clients et mécaniciens) peuvent se connecter à leur compte via un formulaire d'authentification sécurisé.
 
-![Page d'Authentification](https://github.com/user-attachments/assets/85967e10-6483-41cb-b62b-a8dd8c5e83b9)
+![Page d'Authentification](https://github.com/user-attachments/assets/d0a33e59-13f9-4403-be13-2d1bfe619563)
+
 
 
 ### Page de Rendez-vous
 
 Les clients peuvent prendre rendez-vous en ligne pour une réparation ou une personnalisation de leur moto. 
-![Page de Rendez-vous]![image](https://github.com/user-attachments/assets/bc3d400e-4b24-4eac-808f-b59be05f1bf4)
+![Page de Rendez-vous](https://github.com/user-attachments/assets/113968a5-ec68-4e9d-9929-656c263736f4)
+
 
 ## Auteurs
 
