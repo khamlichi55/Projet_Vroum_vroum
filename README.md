@@ -43,6 +43,8 @@ Nous visons principalement :
 La page d'accueil offre une vue d'ensemble de notre garage, avec des liens vers les services proposés, des informations de contact et les dernières publicités sur les motos.
 
 ![Page d'Accueil](image.png)
+![image](https://github.com/user-attachments/assets/5b64388e-a013-46e1-b4c3-e00e1e11d438)
+
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
